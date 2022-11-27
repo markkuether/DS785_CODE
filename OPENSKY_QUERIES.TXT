@@ -1,0 +1,180 @@
+N47523_8PA1_2021-11-18_40.40842222_-76.50385278
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.3714 and lat <= 40.4454 and lon >= -76.5519 and lon <= -76.4559 and geoaltitude <= 763.524 and time >= 1637215200 and time <= 1637330400 and hour >= 1637215200 and hour <= 1637330400;
+
+N5166S_LOM_2021-09-06_40.13755556_-75.26513889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.1006 and lat <= 40.1746 and lon >= -75.3131 and lon <= -75.2171 and geoaltitude <= 701.4972 and time >= 1630904400 and time <= 1631019600 and hour >= 1630904400 and hour <= 1631019600;
+
+N523WS_RYN_2022-02-19_32.14221111_-111.1745806
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.1052 and lat <= 32.1792 and lon >= -111.2176 and lon <= -111.1316 and geoaltitude <= 1346.88072 and time >= 1645250400 and time <= 1645365600 and hour >= 1645250400 and hour <= 1645365600;
+
+N529PE_2U7_2021-09-15_44.20855556_-114.9345278
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 44.1716 and lat <= 44.2456 and lon >= -114.9855 and lon <= -114.8835 and geoaltitude <= 2561.2344 and time >= 1631682000 and time <= 1631797200 and hour >= 1631682000 and hour <= 1631797200;
+
+N5321A_MBO_2021-11-08_32.43866667_-90.10311111
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.4017 and lat <= 32.4757 and lon >= -90.1461 and lon <= -90.0601 and geoaltitude <= 708.69048 and time >= 1636351200 and time <= 1636466400 and hour >= 1636351200 and hour <= 1636466400;
+
+N53GL_BTL_2021-09-16_42.30647222_-85.25008889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 42.2695 and lat <= 42.3435 and lon >= -85.2991 and lon <= -85.2011 and geoaltitude <= 899.70864 and time >= 1631768400 and time <= 1631883600 and hour >= 1631768400 and hour <= 1631883600;
+
+N5704R_HMP_2022-04-30_33.38990278_-84.33103611
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.3529 and lat <= 33.4269 and lon >= -84.375 and lon <= -84.287 and geoaltitude <= 878.40312 and time >= 1651294800 and time <= 1651410000 and hour >= 1651294800 and hour <= 1651410000;
+
+N5797B_5FA1_2021-10-09_28.87804167_-81.94091667
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 28.841 and lat <= 28.915 and lon >= -81.9829 and lon <= -81.8989 and geoaltitude <= 635.508 and time >= 1633755600 and time <= 1633870800 and hour >= 1633755600 and hour <= 1633870800;
+
+N6076C_PAO_2022-04-06_37.46111111_-122.1150556
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.4241 and lat <= 37.4981 and lon >= -122.1611 and lon <= -122.0691 and geoaltitude <= 611.67264 and time >= 1649221200 and time <= 1649336400 and hour >= 1649221200 and hour <= 1649336400;
+
+N61237_FIN_2021-11-14_29.46515_-81.20764722
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 29.4281 and lat <= 29.5022 and lon >= -81.2496 and lon <= -81.1656 and geoaltitude <= 619.68888 and time >= 1636869600 and time <= 1636984800 and hour >= 1636869600 and hour <= 1636984800;
+
+N615TA_X04_2021-09-29_28.707475_-81.58196389
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 28.6705 and lat <= 28.7445 and lon >= -81.624 and lon <= -81.54 and geoaltitude <= 655.32 and time >= 1632891600 and time <= 1633006800 and hour >= 1632891600 and hour <= 1633006800;
+
+N6318B_CUB_2021-10-05_33.97047222_-80.99525
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.9335 and lat <= 34.0075 and lon >= -81.0393 and lon <= -80.9512 and geoaltitude <= 668.54832 and time >= 1633410000 and time <= 1633525200 and hour >= 1633410000 and hour <= 1633525200;
+
+N633CD_2NC0_2021-11-14_35.868725_-82.34179444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 35.8317 and lat <= 35.9057 and lon >= -82.3868 and lon <= -82.2968 and geoaltitude <= 1960.4736 and time >= 1636869600 and time <= 1636984800 and hour >= 1636869600 and hour <= 1636984800;
+
+N6357N_2AK1_2021-09-18_64.36373889_-147.3637583
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 64.3267 and lat <= 64.4007 and lon >= -147.4478 and lon <= -147.2798 and geoaltitude <= 886.968 and time >= 1631941200 and time <= 1632056400 and hour >= 1631941200 and hour <= 1632056400;
+
+N646CA_CZT_2022-01-14_28.52225_-99.82363889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 28.4852 and lat <= 28.5593 and lon >= -99.8656 and lon <= -99.7816 and geoaltitude <= 791.90088 and time >= 1642140000 and time <= 1642255200 and hour >= 1642140000 and hour <= 1642255200;
+
+N656CJ_ISM_2021-11-30_28.28980556_-81.43708333
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 28.2528 and lat <= 28.3268 and lon >= -81.4791 and lon <= -81.3951 and geoaltitude <= 634.62408 and time >= 1638252000 and time <= 1638367200 and hour >= 1638252000 and hour <= 1638367200;
+
+N65987_FXE_2021-09-03_26.19728056_-80.17070556
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 26.1603 and lat <= 26.2343 and lon >= -80.2117 and lon <= -80.1297 and geoaltitude <= 613.68432 and time >= 1630645200 and time <= 1630760400 and hour >= 1630645200 and hour <= 1630760400;
+
+N669GJ_LYH_2021-10-17_37.32538889_-79.20122222
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.2884 and lat <= 37.3624 and lon >= -79.2472 and lon <= -79.1552 and geoaltitude <= 895.56336 and time >= 1634446800 and time <= 1634562000 and hour >= 1634446800 and hour <= 1634562000;
+
+N6863K_77S_2022-01-10_43.93075_-123.0066667
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 43.8938 and lat <= 43.9677 and lon >= -123.0577 and lon <= -122.9557 and geoaltitude <= 774.55776 and time >= 1641794400 and time <= 1641909600 and hour >= 1641794400 and hour <= 1641909600;
+
+N6888A_PUJ_2021-10-21_33.91204444_-84.94061944
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.875 and lat <= 33.949 and lon >= -84.9846 and lon <= -84.8966 and geoaltitude <= 1002.4872 and time >= 1634792400 and time <= 1634907600 and hour >= 1634792400 and hour <= 1634907600;
+
+N6XC_GUC_2021-09-06_38.53433333_-106.93175
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 38.4973 and lat <= 38.5713 and lon >= -106.9788 and lon <= -106.8847 and geoaltitude <= 2950.34208 and time >= 1630904400 and time <= 1631019600 and hour >= 1630904400 and hour <= 1631019600;
+
+N701VX_CJR_2022-05-05_38.52547222_-77.85963889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 38.4885 and lat <= 38.5625 and lon >= -77.9066 and lon <= -77.8126 and geoaltitude <= 705.7644 and time >= 1651726800 and time <= 1651842000 and hour >= 1651726800 and hour <= 1651842000;
+
+N705L_GTG_2021-09-01_45.79837778_-92.66433056
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 45.7614 and lat <= 45.8354 and lon >= -92.7163 and lon <= -92.6123 and geoaltitude <= 892.18008 and time >= 1630472400 and time <= 1630587600 and hour >= 1630472400 and hour <= 1630587600;
+
+N7117K_IWS_2021-10-05_29.81819444_-95.67261111
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 29.7812 and lat <= 29.8552 and lon >= -95.7146 and lon <= -95.6306 and geoaltitude <= 643.4328 and time >= 1633410000 and time <= 1633525200 and hour >= 1633410000 and hour <= 1633525200;
+
+N7157W_F46_2021-12-09_32.93059444_-96.43548611
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.8936 and lat <= 32.9676 and lon >= -96.4795 and lon <= -96.3915 and geoaltitude <= 784.58568 and time >= 1639029600 and time <= 1639144800 and hour >= 1639029600 and hour <= 1639144800;
+
+N733EJ_RYN_2022-04-06_32.14221111_-111.1745806
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.1052 and lat <= 32.1792 and lon >= -111.2176 and lon <= -111.1316 and geoaltitude <= 1346.88072 and time >= 1649221200 and time <= 1649336400 and hour >= 1649221200 and hour <= 1649336400;
+
+N737UY_35A_2022-04-23_34.68695278_-81.64116667
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 34.65 and lat <= 34.724 and lon >= -81.6852 and lon <= -81.5972 and geoaltitude <= 795.58896 and time >= 1650690000 and time <= 1650805200 and hour >= 1650690000 and hour <= 1650805200;
+
+N750LK_LEX_2022-05-02_38.03675_-84.60863889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.9998 and lat <= 38.0737 and lon >= -84.6546 and lon <= -84.5626 and geoaltitude <= 908.09064 and time >= 1651467600 and time <= 1651582800 and hour >= 1651467600 and hour <= 1651582800;
+
+N7523Z_SUZ_2022-03-26_34.59038889_-92.47944444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 34.5534 and lat <= 34.6274 and lon >= -92.5234 and lon <= -92.4354 and geoaltitude <= 728.28912 and time >= 1648270800 and time <= 1648386000 and hour >= 1648270800 and hour <= 1648386000;
+
+N76646_CCB_2022-01-03_34.11161111_-117.6873889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 34.0746 and lat <= 34.1486 and lon >= -117.7314 and lon <= -117.6434 and geoaltitude <= 1049.5788 and time >= 1641189600 and time <= 1641304800 and hour >= 1641189600 and hour <= 1641304800;
+
+N767CG_CBF_2021-09-15_41.26011111_-95.75863889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 41.2231 and lat <= 41.2971 and lon >= -95.8076 and lon <= -95.7096 and geoaltitude <= 989.01504 and time >= 1631682000 and time <= 1631797200 and hour >= 1631682000 and hour <= 1631797200;
+
+N767RT_CPF_2022-03-05_37.38736111_-83.26161111
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.3504 and lat <= 37.4244 and lon >= -83.3076 and lon <= -83.2156 and geoaltitude <= 992.55072 and time >= 1646460000 and time <= 1646575200 and hour >= 1646460000 and hour <= 1646575200;
+
+N787CD_M77_2022-06-06_33.99719444_-93.83808333
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.9602 and lat <= 34.0342 and lon >= -93.8821 and lon <= -93.7941 and geoaltitude <= 778.18488 and time >= 1654491600 and time <= 1654606800 and hour >= 1654491600 and hour <= 1654606800;
+
+N798RT_FFC_2021-09-13_33.35772222_-84.57252778
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.3207 and lat <= 33.3947 and lon >= -84.6165 and lon <= -84.5285 and geoaltitude <= 855.78696 and time >= 1631509200 and time <= 1631624400 and hour >= 1631509200 and hour <= 1631624400;
+
+N800SW_PVF_2022-02-19_38.72422778_-120.7533083
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 38.6872 and lat <= 38.7612 and lon >= -120.8003 and lon <= -120.7063 and geoaltitude <= 1397.75184 and time >= 1645250400 and time <= 1645365600 and hour >= 1645250400 and hour <= 1645365600;
+
+N816ZH_H96_2021-10-26_38.0085_-88.93444444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.9715 and lat <= 38.0455 and lon >= -88.9804 and lon <= -88.8884 and geoaltitude <= 744.96168 and time >= 1635224400 and time <= 1635339600 and hour >= 1635224400 and hour <= 1635339600;
+
+N81991_SFB_2021-11-23_28.77717778_-81.23491389
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 28.7402 and lat <= 28.8142 and lon >= -81.2769 and lon <= -81.1929 and geoaltitude <= 626.33352 and time >= 1637647200 and time <= 1637762400 and hour >= 1637647200 and hour <= 1637762400;
+
+N832DC_69S_2021-10-17_48.99838056_-118.2225972
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 48.9614 and lat <= 49.0354 and lon >= -118.2786 and lon <= -118.1666 and geoaltitude <= 1114.044 and time >= 1634446800 and time <= 1634562000 and hour >= 1634446800 and hour <= 1634562000;
+
+N84068_AUN_2021-09-19_38.95483333_-121.0817222
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 38.9178 and lat <= 38.9918 and lon >= -121.1287 and lon <= -121.0347 and geoaltitude <= 1078.50432 and time >= 1632027600 and time <= 1632142800 and hour >= 1632027600 and hour <= 1632142800;
+
+N8585S_MBY_2022-03-15_39.46316944_-92.42588889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 39.4262 and lat <= 39.5002 and lon >= -92.4729 and lon <= -92.3789 and geoaltitude <= 874.04448 and time >= 1647320400 and time <= 1647435600 and hour >= 1647320400 and hour <= 1647435600;
+
+N8592B_TBR_2021-10-09_32.48275_-81.73694444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.4458 and lat <= 32.5197 and lon >= -81.7799 and lon <= -81.6939 and geoaltitude <= 666.50616 and time >= 1633755600 and time <= 1633870800 and hour >= 1633755600 and hour <= 1633870800;
+
+N863SL_TOA_2022-03-23_33.80338333_-118.3396083
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.7664 and lat <= 33.8404 and lon >= -118.3836 and lon <= -118.2956 and geoaltitude <= 641.05536 and time >= 1648011600 and time <= 1648126800 and hour >= 1648011600 and hour <= 1648126800;
+
+N889WT_HRF_2021-12-05_46.25716667_-114.1238444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 46.2202 and lat <= 46.2942 and lon >= -114.1768 and lon <= -114.0708 and geoaltitude <= 1717.73088 and time >= 1638684000 and time <= 1638799200 and hour >= 1638684000 and hour <= 1638799200;
+
+N9010H_BNG_2022-02-26_33.92255556_-116.8509722
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.8856 and lat <= 33.9596 and lon >= -116.895 and lon <= -116.807 and geoaltitude <= 1286.98752 and time >= 1645855200 and time <= 1645970400 and hour >= 1645855200 and hour <= 1645970400;
+
+N910WM_LCQ_2021-12-11_30.18205556_-82.57686111
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 30.1451 and lat <= 30.2191 and lon >= -82.6189 and lon <= -82.5349 and geoaltitude <= 670.77336 and time >= 1639202400 and time <= 1639317600 and hour >= 1639202400 and hour <= 1639317600;
+
+N917HB_RDM_2022-01-13_44.25406944_-121.1499722
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 44.2171 and lat <= 44.2911 and lon >= -121.201 and lon <= -121.099 and geoaltitude <= 1548.8412 and time >= 1642053600 and time <= 1642168800 and hour >= 1642053600 and hour <= 1642168800;
+
+N91JB_4B8_2022-03-10_41.68933333_-72.86469444
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 41.6523 and lat <= 41.7263 and lon >= -72.9137 and lon <= -72.8157 and geoaltitude <= 671.10864 and time >= 1646892000 and time <= 1647007200 and hour >= 1646892000 and hour <= 1647007200;
+
+N9388X_06A_2022-04-15_32.46047222_-85.68002778
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 32.4235 and lat <= 32.4975 and lon >= -85.723 and lon <= -85.637 and geoaltitude <= 690.0672 and time >= 1649998800 and time <= 1650114000 and hour >= 1649998800 and hour <= 1650114000;
+
+N9433K_C83_2022-01-27_37.82844444_-121.6258333
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 37.7914 and lat <= 37.8654 and lon >= -121.6718 and lon <= -121.5798 and geoaltitude <= 633.5268 and time >= 1643263200 and time <= 1643378400 and hour >= 1643263200 and hour <= 1643378400;
+
+N94400_15G_2021-10-23_41.02818333_-81.79814722
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.9912 and lat <= 41.0652 and lon >= -81.8461 and lon <= -81.7501 and geoaltitude <= 978.408 and time >= 1634965200 and time <= 1635080400 and hour >= 1634965200 and hour <= 1635080400;
+
+N948FS_12N_2021-09-14_41.00861944_-74.73803333
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.9716 and lat <= 41.0456 and lon >= -74.786 and lon <= -74.69 and geoaltitude <= 787.20696 and time >= 1631595600 and time <= 1631710800 and hour >= 1631595600 and hour <= 1631710800;
+
+N9522L_RYY_2021-09-11_34.01316667_-84.59702778
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 33.9762 and lat <= 34.0502 and lon >= -84.641 and lon <= -84.553 and geoaltitude <= 926.71392 and time >= 1631336400 and time <= 1631451600 and hour >= 1631336400 and hour <= 1631451600;
+
+N9572W_RDD_2022-04-25_40.50897222_-122.2933889
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.472 and lat <= 40.546 and lon >= -122.3414 and lon <= -122.2454 and geoaltitude <= 763.43256 and time >= 1650862800 and time <= 1650978000 and hour >= 1650862800 and hour <= 1650978000;
+
+N9639D_N63_2021-09-19_36.301525_-80.14838056
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 36.2645 and lat <= 36.3385 and lon >= -80.1934 and lon <= -80.1034 and geoaltitude <= 801.9288 and time >= 1632027600 and time <= 1632142800 and hour >= 1632027600 and hour <= 1632142800;
+
+N968SW_MAN_2022-03-07_43.58134167_-116.5230639
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 43.5443 and lat <= 43.6183 and lon >= -116.5731 and lon <= -116.4731 and geoaltitude <= 1382.8776 and time >= 1646632800 and time <= 1646748000 and hour >= 1646632800 and hour <= 1646748000;
+
+N976PA_SPK_2022-03-26_40.14502778_-111.6676944
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 40.108 and lat <= 40.182 and lon >= -111.7157 and lon <= -111.6197 and geoaltitude <= 1990.1916 and time >= 1648270800 and time <= 1648386000 and hour >= 1648270800 and hour <= 1648386000;
+
+N987AA_SOP_2022-02-09_35.23742222_-79.38903333
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 35.2004 and lat <= 35.2744 and lon >= -79.434 and lon <= -79.344 and geoaltitude <= 749.59464 and time >= 1644386400 and time <= 1644501600 and hour >= 1644386400 and hour <= 1644501600;
+
+N99715_PWK_2021-11-21_42.11428056_-87.90154167
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 42.0773 and lat <= 42.1513 and lon >= -87.9505 and lon <= -87.8525 and geoaltitude <= 806.8056 and time >= 1637474400 and time <= 1637589600 and hour >= 1637474400 and hour <= 1637589600;
+
+NFMFT_S28_2021-09-01_48.99730556_-100.0436944
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 48.9603 and lat <= 49.0343 and lon >= -100.0997 and lon <= -99.9877 and geoaltitude <= 1315.76064 and time >= 1630472400 and time <= 1630587600 and hour >= 1630472400 and hour <= 1630587600;
+
+NNREG_3IN7_2021-12-13_41.66254722_-86.35417778
+select time, icao24, callsign, lat, lon, velocity, heading, vertrate, baroaltitude, geoaltitude, lastposupdate, lastcontact from state_vectors_data4 where lat >= 41.6255 and lat <= 41.6995 and lon >= -86.4032 and lon <= -86.3052 and geoaltitude <= 836.0664 and time >= 1639375200 and time <= 1639490400 and hour >= 1639375200 and hour <= 1639490400;
+
