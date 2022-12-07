@@ -11,8 +11,16 @@ test_landing <- function(five_pts,min_alt){
   
   if (five_pts$apt_dst[5] < five_pts$apt_dst[1]){
     if (abs(five_pts$agl[5]) <= 500){
-      if (abs(five_pts$baroaltitude[5]-min_alt) < 200){
-        is_landing = TRUE
+      if (! is.na(five_pts$baroaltitude[5])){
+        if (abs(five_pts$baroaltitude[5]-min_alt) < 200){
+          is_landing = TRUE
+          
+        }
+        else{
+          if (abs(five_pts$geoaltitude[5]-min_alt) < 200){
+            is_landing = TRUE
+          }
+        }
       }
     }
   }
@@ -21,8 +29,8 @@ test_landing <- function(five_pts,min_alt){
 
 
 
-my_wd <- "D:/OUTPUT/CSV_UNFILTERED/V9/"
-v10 <- "D:/OUTPUT/CSV_UNFILTERED/V10/"
+my_wd <- "D:/OUTPUT/CSV_UNFILTERED/V20/"
+v21 <- "D:/OUTPUT/CSV_UNFILTERED/V21_2/"
 
 setwd(my_wd)
 
@@ -42,10 +50,10 @@ for(in_file in file_list){
   this_df <- read.csv(in_file)
   this_df$baroaltitude <- as.numeric(this_df$baroaltitude)
 
-  vpos <- unlist(gregexpr("_V10",in_file,ignore.case=TRUE))[1]
+  vpos <- unlist(gregexpr("_V20",in_file,ignore.case=TRUE))[1]
   start_name = substr(in_file,1,vpos-1)
-  out_name <- paste(start_name,"_v11.csv",sep="")
-  out_file <- paste(v11,out_name,sep="")
+  out_name <- paste(start_name,"_v21.csv",sep="")
+  out_file <- paste(v21,out_name,sep="")
   out_df <- data.frame(matrix(ncol = dim(this_df)[2],nrow=0))
   colnames(out_df) <- colnames(this_df)
   
